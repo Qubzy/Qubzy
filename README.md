@@ -1,5 +1,5 @@
 # About Me
-[![trophy](https://github-profile-trophy.vercel.app/?username=kelten5784&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 👋 Hi there! I'm K, and I do cybersecurity stuff somtimes.
