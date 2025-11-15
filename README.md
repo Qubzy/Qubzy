@@ -10,7 +10,7 @@
 
 ## 🚀 Projects
 
-- null
+- MAGIC THE GATHERING DISCORD BOT: **[Invite PackBot to Your Server](https://discord.com/oauth2/authorize?client_id=1437366442210103357&permissions=51200&integration_type=0&scope=bot+applications.commands)**
 
 ## 🌐 Experience
 
