@@ -19,7 +19,9 @@
 
 ## 👨‍💻 Skills
 
-- **Languages:** Python, C++, Java
+- **Proficient IDES:** Eclipse, VS Code/Studio, Pycharm, CLion, intellij, 
+- **Proficient OS:** Windows 7,8,8.1,10,11 Based Servers and Endpoints, Debian Based Servers and Endpoints, Kali Based Endpoints.
+- **Proficient Hardware:** Dell Hardware Repair, Custom Built Desktop Repair, Understanding of interactions between hardware, Security Camera Placement and Analysis
 
 ## 🚀 Projects
 
