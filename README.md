@@ -4,13 +4,11 @@
 
 ---
 
-### 🌟 Extra Cool Add-Ons
-
 #### **GitHub Stats**
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryo-ma&show_icons=true&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=ryo-ma&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 #### **Top Languages**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=ryo-ma&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 #### **Contribution Streak**
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryo-ma&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
