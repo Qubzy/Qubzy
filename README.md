@@ -1,7 +1,4 @@
 # About Me
-
-[![trophy](https://github-readme-trophy.vercel.app/?username=Qubzy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 #### **GitHub Stats**
