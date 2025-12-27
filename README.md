@@ -1,15 +1,6 @@
 # About Me
 ---
 
-#### **GitHub Stats**
-[![GitHub Stats](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=Qubzy&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-#### **Top Languages**
-[![Top Langs](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=Qubzy&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-#### **Contribution Streak**
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Qubzy&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 #### **Profile Views**
 [![Profile Views](https://komarev.com/ghpvc/?username=Qubzy&label=Profile%20Views&color=blueviolet&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
 
