@@ -6,7 +6,7 @@
 
 ---
 
-👋 Hi there! I'm K, and I do cybersecurity stuff somtimes.
+👋 Hi there! I'm K, and I am a cybersecurity professional.
 
 ## 👨‍💻 Skills
 
